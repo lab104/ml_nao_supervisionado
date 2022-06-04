@@ -13,3 +13,4 @@ Machine Learning examples from my specialization degree
 * [Credit card fraud detection with stacking](archived/2021-09-09-credit-card-fraud-detection-with-stacking)
 * [Notebook with animated dbscan (pt-BR)](archived/2021-08-18-cluster-dbscan-hardcoded-animado)
 * [Notebook with animated kmeans (pt-BR)](archived/2021-08-18-cluster-kmeans-hardcoded-animado)
+* [Twitter sentiment analysis](archived/2022-05-26-twitter-sentiment-analysis)
