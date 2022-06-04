@@ -6,6 +6,7 @@ Machine Learning examples from my specialization degree
 * [Image classification with tensorflow (1)](archived/2021-09-23-image-classification-tensorflow)
 * [Image classification with tensorflow (2)](archived/2021-10-07-image-classification-tensorflow)
 * [Image cleaning with autoencoder](archived/2021-11-02-imagem-reducao-ruido-autoencoder)
+* [Image generation with variational autoencoder](archived/2022-02-13-image-generation-with-variational-autoencoder)
 * [Face morphing with variational autoencoder](archived/2021-12-14-face-morphing-with-variational-autoencoder)
 * [Live face detection with opencv](archived/2021-12-15-face-detection-with-opencv)
 * [Image semantic segmentation with pytorch](archived/2021-11-23-image-semantic-segmentation-with-pytorch)
@@ -14,3 +15,4 @@ Machine Learning examples from my specialization degree
 * [Notebook with animated dbscan (pt-BR)](archived/2021-08-18-cluster-dbscan-hardcoded-animado)
 * [Notebook with animated kmeans (pt-BR)](archived/2021-08-18-cluster-kmeans-hardcoded-animado)
 * [Twitter sentiment analysis](archived/2022-05-26-twitter-sentiment-analysis)
+* [CartPool reinforcement learning](archived/2022-02-13-cartpool-reinforcement-learning-actor-critic)
